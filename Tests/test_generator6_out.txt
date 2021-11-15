@@ -1,0 +1,30 @@
+Frequency of 3 is: 0.041667
+Frequency of 3 is: 0.048780
+Frequency of 3 is: 0.061224
+Frequency of 3 is: 0.027972
+Frequency of 3 is: 0.027322
+Frequency of 3 is: 0.028571
+Frequency of 3 is: 0.031250
+Frequency of 3 is: 0.028674
+Frequency of 3 is: 0.028662
+Frequency of 3 is: 0.029070
+Frequency of 3 is: 0.029810
+Frequency of 3 is: 0.028504
+Shrinked
+Frequency of 3 is: 0.025440
+Frequency of 3 is: 0.026365
+Frequency of 3 is: 0.025818
+Frequency of 3 is: 0.024133
+Frequency of 3 is: 0.025185
+Frequency of 3 is: 0.025281
+Frequency of 3 is: 0.025921
+Frequency of 3 is: 0.026042
+Frequency of 3 is: 0.026022
+Frequency of 3 is: 0.025287
+Frequency of 3 is: 0.026226
+Frequency of 3 is: 0.027304
+Frequency of 3 is: 0.027933
+Shrinked
+Frequency of 3 is: 0.028761
+Frequency of 3 is: 0.029476
+Frequency of 3 is: 0.028369
